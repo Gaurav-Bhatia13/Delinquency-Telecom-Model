@@ -1,4 +1,4 @@
-#Delinquency-Telecom-Model
+'**Delinquency-Telecom-Model**'
 This repository contains code for developing a delinquency model that predicts, in terms of a probability for each loan transaction, whether the customer will be paying back the loaned amount within 5 days of insurance of loan (Label ‘1’ & ’0’).
 
 #Dataset
